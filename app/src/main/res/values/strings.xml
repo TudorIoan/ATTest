@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ATTest</string>
+    <string name="base_url">http://gnb.dev.airtouchmedia.com/</string>
+</resources>
